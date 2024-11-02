@@ -108,7 +108,7 @@ This is probably the most time-consuming and annoying part of the process if you
 - Other nice things people have said about you
 - Company Changelog and blog posts
 
-Try to first list everything you recall off the top of your head without looking anything up. Then, go back to find the gaps. 
+Try to first list everything you recall off the top of your head without looking anything up. Then, go back to fill in the blanks. 
 
 ### Step 2. Metrics/Impact
 
@@ -122,7 +122,7 @@ Not everything you’ve worked on will have a flashy number directly tied to act
 - Stats from a refactor or vendor software upgrade
 - Social validation (Tweets, the rare positive HN comment)
 
-Identifying these metrics can help show the gaps in your work for positive change next cycle. If you can’t find _any_ measurement for a project, or your metrics are often about breadth rather than depth, it may indicate that you and your manager should change your focus for the next review period. For example, identifying that you merged 400 PRs _could_ be a signal that you’re not working on the right things vs. merging 4 high-impact PRs.
+Identifying these metrics can help your work prioritization next cycle. If you can’t find _any_ measurement for a project, or your metrics are often about breadth rather than depth, it may indicate that you and your manager should change your focus for the next review period. For example, identifying that you merged 400 PRs _could_ be a signal that you’re not working on the right things vs. merging 4 high-impact PRs.
 
 The goal here is to connect your work to a measurement to show its value. Otherwise, you’re just listing completed tasks. Listing completed tasks is for stand-up, not for the performance review.
 
