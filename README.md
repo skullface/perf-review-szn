@@ -1,5 +1,9 @@
 # PERF REVIEW SZN SURVIVAL GUIDE
-Making performance review season less scary. [**Download deck**](https://github.com/skullface/perf-review-szn/blob/main/review-szn-survival-guide-from-skullface-2024.pdf) (PDF, 2.9MB) 💕
+Making performance review season suck a little bit less.
+
+📁 [**Download this guide as a slide deck**](https://github.com/skullface/perf-review-szn/blob/main/review-szn-survival-guide-from-skullface-2024.pdf) (PDF, 2.9MB) 
+
+💕 Credit to [Frances Abel Studio](https://francesabelstudio.com/) for this repo’s open graph image.
 
 ---
 
